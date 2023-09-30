@@ -30,3 +30,8 @@ https://www.kaggle.com/datasets/datasnaek/youtube-new
 
 ![architecture](https://github.com/rjs-7399/youtube-metrics-rendition/assets/38734146/ec188046-129f-4235-98fe-98dbbf2299f4)
 
+# Results after analyzing data on different parameters
+
+<img width="868" alt="Screenshot 2023-09-30 at 2 11 19 PM" src="https://github.com/rjs-7399/youtube-metrics-rendition/assets/38734146/fef9b3de-ae79-449e-a8c1-cedc99834d76">
+
+
